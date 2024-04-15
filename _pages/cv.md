@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/CV_Gao_Kun.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CV_Gao_Kun.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
 Please see my CV at [here](/files/CV_Gao_Kun.pdf).
