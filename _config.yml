@@ -26,7 +26,7 @@ author:
   pronouns         : "He/His"  
   bio              : "Researcher at IHPC, Ph.D. from Peking University."
   location         : "Singapore"
-  employer         : "[IHPC](https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), A*STAR"
+  employer         : "IHPC, A*STAR"
   uri              : # URL
   email            : "kungao@pku.edu.cn" 
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
