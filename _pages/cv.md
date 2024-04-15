@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<iframe src="https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+
+Please see my CV at [here](https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing).
+
+<!-- 
 {% include base_path %}
 
 Education
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
