@@ -10,7 +10,7 @@ redirect_from:
 <iframe src="/files/CV_Gao_Kun.pdf" width="100%" height="1000" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
-Please see my CV at [here](https://drive.google.com/file/d/1vWrppOp__upno6SBTBlU8uJG2gSwevu9/view?usp=sharing).
+Please see my CV at [here](/files/CV_Gao_Kun.pdf).
 
 <!-- 
 {% include base_path %}
