@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kun Gao"
 description              : &description "Researcher at IHPC, Ph.D. from Peking University."
-url                      : https://gaokun12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gaokun12.github.io/kun/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaokun12/gaokun12.github.io/kun/"
 
