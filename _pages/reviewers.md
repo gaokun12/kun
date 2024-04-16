@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Peer Reviewer and Awards"
+title: "Peer Reviewer & Awards"
 permalink: /reviewer/
 author_profile: true
 ---
