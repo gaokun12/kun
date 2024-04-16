@@ -20,6 +20,6 @@ author_profile: true
   - teaching assistant at PKU
   - Assignments and exams
   - F&Q
-- <u>Probability and Statistics</u>, Step. 2015 -- June 2016
+- <u>Probability and Statistics</u>, Sept. 2015 -- June 2016
   - student lecturer at USTB
   - Delivered lectures and F&Q one time per two weeks
