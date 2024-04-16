@@ -10,7 +10,10 @@ main:
     url: /teaching/    
 
   - title: "Peer Reviewer"
-    url: /reviewer/    
+    url: /reviewer/   
+
+  - title: "Open Sources"
+    url: /opensources/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
