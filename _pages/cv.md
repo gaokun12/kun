@@ -12,7 +12,7 @@ redirect_from:
 <iframe src="/kun/files/CV_KUNGAO.pdf" width="100%" height="800" frameborder="no" border="0" marginwidth="0" marginheight="0" title="Curriculum Vitae of Kun Gao"></iframe>
 
 
- My CV can also be downloaded at [here](/kun/files/CV_KUNGAO.pdf).
+ My CV can also be downloaded [here](/kun/files/CV_KUNGAO.pdf).
 
 <!-- 
 {% include base_path %}
