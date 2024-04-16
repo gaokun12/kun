@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 <style>
-td, th {
+table, td, th {
    border: none!important;
 }
 </style>
