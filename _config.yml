@@ -25,7 +25,10 @@ author:
   name             : "Kun Gao"
   pronouns         : "He/His"  
   bio              : "📢 Bio: Researcher at IHPC, Ph.D. from Peking University. "
-  ri               : "🔬 Research topics: Differentiable Inductive Logic Programming; Neuro-Symbolic Methods; Knowledge Representation and Reasoning "
+  ri               : "🔬 Research topics: \n \\ 
+  - Differentiable Inductive Logic Programming; 
+  - Neuro-Symbolic Methods; 
+  - Knowledge Representation and Reasoning "
   location         : "Singapore"
   employer         : "IHPC, A*STAR"
   uri              : # URL
