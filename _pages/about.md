@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-From Aug. 2023, I am a scientist at [IHPC]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [A*STAR](https://www.a-star.edu.sg/) after obtaining Ph.D. degree. 
+From Aug. 2023, I am a scientist at [Institute of High Performance Computing]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) after obtaining Ph.D. degree. 
 
 From Sept. 2018 to July 2023, I was Ph.D. student from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), and I was supervised by Prof. Hanpin Wang and cosupervised by Prof. [Yognzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en).
 
