@@ -1,14 +1,9 @@
 ---
 layout: archive
-title: "Peer Reviewer & Awards"
+title: "Awards & Peer Reviewer"
 permalink: /reviewer/
 author_profile: true
 ---
-
-Peer Reviewers:
-- 2024, IEEE Transactions on Knowledge and Data Engineering
-- 2024, ECAI
-
 
 Awards:
 - 2022.09, National Award (Peking University)
@@ -16,3 +11,11 @@ Awards:
 - 2018.09, Excellent Graduated Student (University of Science and Technology Beijing)
 - 2017.09, People's Second Rank Award (University of Science and Technology Beijing)
 - 2016.09, People's Top Rank Award (University of Science and Technology Beijing)
+
+
+Peer Reviewer:
+- 2024, ACM Transactions on Intelligent Systems and Technology
+- 2024, 27TH European Conference on Artificial Intelligence (ECAI-24)
+- 2024, IEEE Transactions on Knowledge and Data Engineering
+
+
