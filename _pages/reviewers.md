@@ -15,7 +15,7 @@ author_profile: true
 
 ### Peer Reviewer
 - 2024, ACM Transactions on Intelligent Systems and Technology
-- 2024, 27th European Conference on Artificial Intelligence (ECAI-24)
+- 2024, program committee member, 27th European Conference on Artificial Intelligence (ECAI-24)
 - 2024, IEEE Transactions on Knowledge and Data Engineering
 - 2023, Journal of Frontiers of Computer Science and Technology
 - 2022, Knowledge-Based Systems
