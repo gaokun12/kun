@@ -16,7 +16,7 @@ From Sept. 2019 to Mar. 2020, I was a visiting student at [National Institute of
 My research interests focus on neuro-symbolic methods, differentiable inductive logic programming, time series processing, and foundation models. 
 
 <!-- I am also open for postdoc research positions.  -->
-The sakuras in Peking and Tokyo when I am ph.d. student :)
+The sakuras in Peking and Tokyo when I am a Ph.D. student. Hope see you again :)
 
 <img src="https://gaokun12.github.io/kun/images/sakura_peking.jpg" alt="drawing" width="200"/>
 <img src="https://gaokun12.github.io/kun/images/sakura_tokyo.jpg" alt="drawing" width="200"/>
