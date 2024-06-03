@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ### Awards
+- 2024.06, IJCAI-24 Conference Grant
 - 2022.09, National Award (Peking University)
 - 2022.09, Excellent Metric Student (Peking University)
 - 2018.09, Excellent Graduated Student (University of Science and Technology Beijing)
@@ -14,8 +15,8 @@ author_profile: true
 
 
 ### Peer Reviewer
-- 2024, ACM Transactions on Intelligent Systems and Technology
 - 2024, program committee member, 27th European Conference on Artificial Intelligence (ECAI-24)
+- 2024, ACM Transactions on Intelligent Systems and Technology
 - 2024, IEEE Transactions on Knowledge and Data Engineering
 - 2023, Journal of Frontiers of Computer Science and Technology
 - 2022, Knowledge-Based Systems
