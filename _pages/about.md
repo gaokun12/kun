@@ -17,7 +17,7 @@ My research interests focus on:
 - Neuro-symbolic methods
 - Differentiable inductive logic programming
 - Knowledge learning and representation
-- Time series processing and knowledge graphs
+- Time series processing and Knowledge graphs
 - Explainable AI and Interpretable AI
 - Reasoning ability of LLMs 
 
