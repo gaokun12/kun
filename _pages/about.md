@@ -13,7 +13,13 @@ From Sept. 2018 to July 2023, I was Ph.D. student from [School of Computer Scien
 
 From Sept. 2019 to Mar. 2020, I was a visiting student at [National Institute of Informatics](https://www.nii.ac.jp/en/) and I was supervised by Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en). 
 
-My research interests focus on neuro-symbolic methods, differentiable inductive logic programming, time series processing, and foundation models. 
+My research interests focus on: 
+- Neuro-symbolic methods
+- Differentiable inductive logic programming
+- Knowledge learning and representation
+- Time series processing and knowledge graphs
+- Explainable AI and Interpretable AI
+- Reasoning ability of LLMs 
 
 <!-- I am also open for postdoc research positions.  -->
 The sakuras in Peking and Tokyo when I am a Ph.D. student. Hope see you again :)
