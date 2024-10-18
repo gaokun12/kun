@@ -7,11 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-From Aug. 2023, I am a scientist at [Institute of High Performance Computing (IHPC)]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/) after obtaining Ph.D. degree. 
+ 
 
-From Sept. 2018 to July 2023, I was Ph.D. student from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), and I was supervised by Prof. [Hanpin Wang](https://cs.pku.edu.cn/info/1230/2023.htm) and cosupervised by Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en).
+Events:
+- 2024.08, I give a prsentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
+- 2023.08, I serve as a scientist at [Institute of High Performance Computing (IHPC)]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/). 
+- 2023.07, I receive a Ph.D. of Science from the School of Computer, Peking University🎓.
+- 2022.08, I give a presentation at IJCAI 2022 in Vienna, Austria (online).
+- 2019.09-2020.03, I am a visiting student at [National Institute of Informatics](https://www.nii.ac.jp/en/) and I am supervised by Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en).
+- 2018.09, I am a Ph.D. student from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), and I am supervised by Prof. [Hanpin Wang](https://cs.pku.edu.cn/info/1230/2023.htm) and cosupervised by Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en)📚.
 
-From Sept. 2019 to Mar. 2020, I was a visiting student at [National Institute of Informatics](https://www.nii.ac.jp/en/) and I was supervised by Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en). 
 
 My research interests focus on: 
 - Neuro-symbolic methods
@@ -20,6 +25,10 @@ My research interests focus on:
 - Time series processing and Knowledge graphs
 - Explainable AI and Interpretable AI
 - Reasoning ability of LLMs 
+
+
+
+
 
 <!-- I am also open for postdoc research positions.  -->
 
