@@ -28,7 +28,7 @@ My research interests focus on:
 - Explainable AI and Interpretable AI
 - Reasoning ability of LLMs 
 
-Please feel free to contact me for collaboobraions and discussions🥂. 
+Please feel free to contact me for collaboratobraions and discussions🥂. 
 
 
 
