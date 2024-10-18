@@ -11,10 +11,12 @@ redirect_from:
 
 Events:
 - 2024.08, I give a prsentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
+- 2024.05, I supervise Singapore AGA-poly scholarship holders Seah Huixin, Mar Yong Rui, and, Neo Wei Le to perform research and implementations. 
 - 2023.08, I serve as a scientist at [Institute of High Performance Computing (IHPC)]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/). 
 - 2023.07, I receive a Ph.D. of Science from the School of Computer, Peking University🎓.
 - 2022.08, I give a presentation at IJCAI 2022 in Vienna, Austria (online).
-- 2019.09-2020.03, I am a visiting student at [National Institute of Informatics](https://www.nii.ac.jp/en/) and I am supervised by Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en).
+- 2021.11, I give a presentation at the first IJCLR online.
+- 2019.09-2020.03, I am a visiting student at [National Institute of Informatics](https://www.nii.ac.jp/en/) and I am supervised by Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en)📚.
 - 2018.09, I am a Ph.D. student from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), and I am supervised by Prof. [Hanpin Wang](https://cs.pku.edu.cn/info/1230/2023.htm) and cosupervised by Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en)📚.
 
 
@@ -26,7 +28,7 @@ My research interests focus on:
 - Explainable AI and Interpretable AI
 - Reasoning ability of LLMs 
 
-
+Please feel free to contact me for collaboobraions and discussions🥂. 
 
 
 
