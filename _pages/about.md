@@ -10,6 +10,7 @@ redirect_from:
  
 
 Events:
+- 2024.12.01-13, visit Prof. Katsumi Inoue'lab at NII, Tokyo. 
 - 2024.08, I give a prsentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
 - 2024.05, I supervise Singapore AGA-poly scholarship holders Seah Huixin, Mar Yong Rui, and Neo Wei Le to perform research and implementations. 
 - 2023.08, I serve as a scientist at [Institute of High Performance Computing (IHPC)]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/). 
