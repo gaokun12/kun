@@ -15,9 +15,10 @@ author_profile: true
 
 
 ### Peer Reviewer
+- 2025, International Joint Conference on Artificial Intelligence, (IJCAI)
+- 2025, 2024, program committee member, European Conference on Artificial Intelligence (ECAI)
 - 2024, program committee member, 13th International Conference on Learning Representations (ICLR-25)
 - 2024, program committee member, 4th International Joint Conference on Learning & Reasoning (IJCLR-24)
-- 2024, program committee member, 27th European Conference on Artificial Intelligence (ECAI-24)
 - 2024, ACM Transactions on Intelligent Systems and Technology
 - 2024, IEEE Transactions on Knowledge and Data Engineering
 - 2023, Journal of Frontiers of Computer Science and Technology
