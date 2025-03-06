@@ -9,7 +9,7 @@ author_profile: true
 - [NeurRL](https://github.com/gaokun12/NeurRL): Learning from raw sequence inputs.
 
 <details>
-    <summary>[DFOL](https://github.com/gaokun12/DFORL): Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts.</summary>   
+    <summary><a href="https://github.com/gaokun12/DFORL">DFOL</a> Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts.</summary>   
     - Based on TensorFlow
     - Scalable
     - Precise
@@ -19,7 +19,7 @@ author_profile: true
 </details>
 
 <details>
-  <summary>[D-LFIT](https://github.com/gaokun12/D-LFIT): Learning propositional logic programs from attribute-valued datasets, including cellular automata, table row data, etc.</summary>
+  <summary><a href="https://github.com/gaokun12/D-LFIT">D-LFIT</a>: Learning propositional logic programs from attribute-valued datasets, including cellular automata, table row data, etc.</summary>
 - Based on TensorFlow
 - Precise
 - Robust
