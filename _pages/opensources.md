@@ -7,7 +7,7 @@ author_profile: true
 
 ### Softwares
 <details>
-    <summary><a href="https://github.com/gaokun12/NeurRL">NeurRL</a> Learning from raw sequence inputs.</summary>  
+    <summary><a href="https://github.com/gaokun12/NeurRL">NeurRL</a>: Learning from raw sequence inputs.</summary>  
     <ul>
     <li>AI for Healthcare</li>
     <li>AI for Fintech</li>
@@ -16,7 +16,7 @@ author_profile: true
 </details>
 
 <details>
-    <summary><a href="https://github.com/gaokun12/DFORL">DFOL</a> Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts.</summary>   
+    <summary><a href="https://github.com/gaokun12/DFORL">DFOL</a>: Learning first-order logic programs from relational datasets, including the knowledge graph and synthesis relational facts.</summary>   
     <ul>
     <li>Knowledge Graph</li>
     <li>No GPU Dependency</li>
