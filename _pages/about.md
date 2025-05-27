@@ -11,7 +11,7 @@ redirect_from:
 
 Events:
 - 2025.05, I visit Zhongguancun Academy at Beijing.
-- 2025.04, I attend ICLR with professor Katsumi Inoue. 
+- 2025.04, I attend ICLR 2025 with professor Katsumi Inoue at Singapore. 
 - 2024.12.01-13, visit Prof. [Katsumi Inoue'lab](https://research.nii.ac.jp/il/index24.html) at NII, Tokyo. 
 - 2024.08, I give a prsentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
 - 2024.05, I supervise Singapore AGA-poly scholarship holders Seah Huixin, Mar Yong Rui, and Neo Wei Le to perform research and implementations. 
