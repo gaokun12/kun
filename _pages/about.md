@@ -10,7 +10,7 @@ redirect_from:
  
 
 Events:
-- 2025.05, I visit Zhongguancun Academy at Beijing.
+- 2025.08, I join [Zhongguancun Academy](https://www.bjzgca.edu.cn/en) at Beijing.
 - 2025.04, I attend ICLR 2025 with professor Katsumi Inoue at Singapore. 
 - 2024.12.01-13, visit Prof. [Katsumi Inoue'lab](https://research.nii.ac.jp/il/index24.html) at NII, Tokyo. 
 - 2024.08, I give a prsentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
