@@ -24,11 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Kun Gao"
   pronouns         : "He/His"  
-  bio              : "📢 Bio: "Researcher at Zhongguancun Academy; Ph.D. from Peking University"
-  ri               : "🔬 Research topics: 
-  Differentiable Inductive Logic Programming;
-  Neuro-Symbolic Methods;
-  Knowledge Representation and Reasoning"
+  bio              : "📢 Bio: Researcher at Zhongguancun Academy; Ph.D. from Peking University"
+  ri               : "🔬 Research topics: Differentiable Inductive Logic Programming; Neuro-Symbolic Methods; Knowledge Representation and Reasoning"
   location         : "Beijing, China"
   employer         : "Zhongguancun Academy"
   uri              : # URL
