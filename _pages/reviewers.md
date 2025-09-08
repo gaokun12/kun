@@ -15,7 +15,7 @@ author_profile: true
 
 
 ### Peer Reviewer
-- 2025, 2024, program committee member, International Conference on Learning Representations (ICLR-25)
+- 2025, 2024, program committee member, International Conference on Learning Representations (ICLR)
 - 2025, program committee member, Annual Conference on Neural Information Processing Systems (NeurIPS)
 - 2025, program committee member, Annual AAAI Conference on Artificial Intelligence (AAAI)
 - 2025, program committee member, International Joint Conference on Artificial Intelligence (IJCAI)
