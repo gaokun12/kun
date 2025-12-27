@@ -11,15 +11,15 @@ redirect_from:
 
 Events:
 - 2025.12.14-27, 2024.12.01-13, visit Prof. [Katsumi Inoue'lab](https://research.nii.ac.jp/il/index24.html) at NII, Tokyo. 
-- 2025.08, I join [Zhongguancun Academy](https://www.bjzgca.edu.cn/en) at Beijing.
-- 2025.04, I attend ICLR 2025 with professor Katsumi Inoue at Singapore. 
-- 2024.08, I give a prsentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
+- 2025.08, I joined [Zhongguancun Academy](https://www.bjzgca.edu.cn/en) in Beijing.
+- 2025.04, I attended ICLR 2025 with Professor Katsumi Inoue in Singapore. 
+- 2024.08, I give a presentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
 - 2024.05, I supervise Singapore AGA-poly scholarship holders Seah Huixin, Mar Yong Rui, and Neo Wei Le to perform research and implementations. 
 - 2023.08, I serve as a scientist at [Institute of High Performance Computing (IHPC)]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/). 
-- 2023.07, I receive a Ph.D. of Science from the School of Computer, Peking University🎓.
-- 2022.08, I give a presentation at IJCAI 2022 in Vienna, Austria (online).
-- 2021.11, I give a presentation at the first IJCLR online.
-- 2019.09-2020.03, I am a visiting student at [National Institute of Informatics](https://www.nii.ac.jp/en/) and I am supervised by Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en)📚.
+- 2023.07, I received a Ph.D. in Science from the School of Computer, Peking University🎓.
+- 2022.08, I gave a presentation at IJCAI 2022 in Vienna, Austria (online).
+- 2021.11, I gave a presentation at the first IJCLR online.
+- 2019.09-2020.03, I am a visiting student at [National Institute of Informatics](https://www.nii.ac.jp/en/), and I am supervised by Prof. [Katsumi Inoue](https://scholar.google.co.jp/citations?user=vei697QAAAAJ&hl=en)📚.
 - 2018.09, I am a Ph.D. student from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), and I am supervised by Prof. [Hanpin Wang](https://cs.pku.edu.cn/info/1230/2023.htm) and cosupervised by Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en)📚.
 
 
