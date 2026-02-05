@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kun Gao"
-description              : &description "Researcher at ZGCA, Ph.D. from Peking University."
+description              : &description "Researcher at NeSy. Ph.D. from Peking University."
 url                      : https://gaokun12.github.io/kun # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gaokun12/gaokun12.github.io/kun"
@@ -24,12 +24,12 @@ author:
   avatar           : "profile.jpg"
   name             : "Kun Gao"
   pronouns         : "He/His"  
-  bio              : "📢 Bio: Researcher at Zhongguancun Academy; Ph.D. from Peking University"
+  bio              : "📢 Bio: Researcher in Neuro-Symbolic AI; Ph.D. from Peking University"
   ri               : "🔬 Research topics: Differentiable Inductive Logic Programming; Neuro-Symbolic Methods; Knowledge Representation and Reasoning"
-  location         : "Beijing, China"
-  employer         : "Zhongguancun Academy"
+  # location         : "Beijing, China"
+  # employer         : "Zhongguancun Academy"
   uri              : # URL
-  email            : "kun12gao@gmail.com, gaokun@bjzgca.edu.cn" 
+  email            : "kun12gao@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
