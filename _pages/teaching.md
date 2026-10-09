@@ -11,6 +11,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+- <u>Principles of AI</u>, fall semester, 2026
+  - Symbolic Methods
+- <u>English Presentation and Communications</u>, fall semester, 2026
 - <u>Mathematical Logic</u>, spring semester, 2019, 2022
   - teaching assistant at PKU 
   - Delivered lectures
