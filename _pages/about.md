@@ -10,11 +10,12 @@ redirect_from:
  
 
 Events:
+- 2026.09.14, attending IJCLR at Valencia. 
 - 2025.12.14-27, 2024.12.01-13, visit Prof. [Katsumi Inoue'lab](https://research.nii.ac.jp/il/index24.html) at NII, Tokyo. 
 <!-- - 2025.08, I joined [Zhongguancun Academy](https://www.bjzgca.edu.cn/en) in Beijing. -->
 - 2025.04, I attended ICLR 2025 with Professor Katsumi Inoue in Singapore. 
-- 2024.08, I give a presentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
-- 2024.05, I supervise Singapore AGA-poly scholarship holders Seah Huixin, Mar Yong Rui, and Neo Wei Le to perform research and implementations. 
+- 2024.08, I gave a presentation at IJCAI 2024 in IJCAI 2024 at Jeju, South Korea. 
+- 2024.05, I supervised Singapore AGA-poly scholarship holders Seah Huixin, Mar Yong Rui, and Neo Wei Le to perform research and implementations. 
 - 2023.08, I serve as a scientist at [Institute of High Performance Computing (IHPC)]( https://www.a-star.edu.sg/ihpc/ihpc-research-capabilities/computing-intelligence), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/). 
 - 2023.07, I received a Ph.D. in Science from the School of Computer, Peking University🎓.
 - 2022.08, I gave a presentation at IJCAI 2022 in Vienna, Austria (online).
