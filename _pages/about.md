@@ -52,9 +52,9 @@ redirect_from:
 </div>
 
 
+<br>
 
-
-Events:
+**Events:**
 - 2026.09.14, attending IJCLR at Valencia.
 - 2025.12.14-27, 2024.12.01-13, visit Prof. [Katsumi Inoue'lab](https://research.nii.ac.jp/il/index24.html) at NII, Tokyo. 
 - 2025.08, I joined [Zhongguancun Academy](https://www.bjzgca.edu.cn/en) in Beijing.
@@ -69,7 +69,7 @@ Events:
 - 2018.09, I am a Ph.D. student from [School of Computer Science](https://cs.pku.edu.cn/English/Home.htm), [Peking University](https://english.pku.edu.cn/), and I am supervised by Prof. [Hanpin Wang](https://cs.pku.edu.cn/info/1230/2023.htm) and cosupervised by Prof. [Yongzhi Cao](https://scholar.google.com/citations?user=VEhLdikAAAAJ&hl=en)📚.
 
 
-My research interests focus on: 
+**My research interests focus on:**
 - Neuro-symbolic methods
 - Differentiable inductive logic programming
 - Knowledge learning and representation
