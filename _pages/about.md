@@ -51,6 +51,9 @@ redirect_from:
   <p>Undergraduate students with a background in AI and graduate students in BZA are welcome to join these projects to develop sound and interpretable AI.</p>
 </div>
 
+
+
+
 Events:
 - 2026.09.14, attending IJCLR at Valencia.
 - 2025.12.14-27, 2024.12.01-13, visit Prof. [Katsumi Inoue'lab](https://research.nii.ac.jp/il/index24.html) at NII, Tokyo. 
