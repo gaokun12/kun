@@ -7,8 +7,49 @@ redirect_from:
   - /about.html
 ---
 
- Call:
-Undergraduate students with a background in AI and graduate students in BZA are welcome to join  projects to develop sound and interpretable AI.
+<style>
+  .project-call {
+    padding: 16px 20px;
+    border-left: 4px solid #2563eb;
+    border-radius: 8px;
+    background: #eff6ff;
+    animation: call-appear 0.8s ease-out both;
+  }
+
+  .project-call strong {
+    display: inline-block;
+    margin-bottom: 6px;
+    color: #1d4ed8;
+  }
+
+  .project-call p {
+    margin: 0;
+    line-height: 1.6;
+    color: #1e293b;
+  }
+
+  @keyframes call-appear {
+    from {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .project-call {
+      animation: none;
+    }
+  }
+</style>
+
+<div class="project-call">
+  <strong>📣 Call for Students</strong>
+  <p>Undergraduate students with a background in AI and graduate students in BZA are welcome to join these projects to develop sound and interpretable AI.</p>
+</div>
 
 Events:
 - 2026.09.14, attending IJCLR at Valencia.
