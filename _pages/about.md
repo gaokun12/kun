@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
- 
+ Call:
+Undergraduate students with a background in AI and graduate students in BZA are welcome to join  projects to develop sound and interpretable AI.
 
 Events:
 - 2026.09.14, attending IJCLR at Valencia.
