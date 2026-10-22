@@ -55,7 +55,7 @@ redirect_from:
 <br>
 
 **Events:**
-- 2026.09.14, attending IJCLR at Valencia.
+- 2026.09.14, attending IJCLR at Valencia, Spain.
 - 2025.12.14-27, 2024.12.01-13, visit Prof. [Katsumi Inoue'lab](https://research.nii.ac.jp/il/index24.html) at NII, Tokyo. 
 - 2025.08, I joined [Zhongguancun Academy](https://www.bjzgca.edu.cn/en) in Beijing.
 - 2025.04, I attended ICLR 2025 with Professor Katsumi Inoue in Singapore. 
